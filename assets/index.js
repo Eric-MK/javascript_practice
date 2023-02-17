@@ -66,6 +66,8 @@ for(let i = 1; i < 11; i++){
  * 
  */
 
+
+/**====================================================== converter from km to miles */
 const miles = 1000;
 let value;
 
